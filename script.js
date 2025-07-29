@@ -15,3 +15,8 @@ const item = document.querySelector("#lista");
 item.textContent = linguagens[0];
 item.textContent = linguagens[1];
 item.textContent = linguagens[2];
+let aluno1 = {
+  nome: "Claudio",
+  idade: 49,
+  anoLetivo: "Universidade",
+  materiasFavoritas: ["filologia","dialetologia","linguística"]
